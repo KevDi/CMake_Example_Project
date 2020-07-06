@@ -1,0 +1,5 @@
+add_subdirectory(app)
+add_subdirectory(evolution)
+add_subdirectory(initial)
+add_subdirectory(io)
+add_subdirectory(parser)
